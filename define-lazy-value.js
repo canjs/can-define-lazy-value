@@ -1,6 +1,7 @@
 /**
  * @module {function} can-define-lazy-value
- * @parent can-infrastructure
+ * @parent can-js-utilities
+ * @collection can-infrastructure
  * @package ./package.json
  * @signature `defineLazyValue(obj, prop, fn, writable)`
  *
