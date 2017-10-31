@@ -1,6 +1,6 @@
 {
   "name": "can-define-lazy-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Define properties with lazy values using Object.defineProperty",
   "homepage": "https://canjs.com",
   "repository": {
