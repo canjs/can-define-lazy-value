@@ -76,7 +76,7 @@ This will create a `dist/` folder that contains the AMD, CommonJS, and global mo
 
 To output minified versions, in the `build.js` add `minify: true` to the outputs.
 
-```js
+```javascript
 {
   // in build.js export config
   outputs: {
