@@ -78,6 +78,7 @@ To output minified versions, in the `build.js` add `minify: true` to the outputs
 
 ```js
 {
+
 	// in build.js export config
 	outputs: {
 		"+cjs": { minify: true },
