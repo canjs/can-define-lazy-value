@@ -1,3 +1,4 @@
+"use strict";
 /**
  * @module {function} can-define-lazy-value
  * @parent can-js-utilities
