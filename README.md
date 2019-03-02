@@ -5,8 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/canjs/can-define-lazy-value/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/can-define-lazy-value.svg)](https://www.npmjs.com/package/can-define-lazy-value)
 [![Travis build status](https://travis-ci.org/canjs/can-define-lazy-value.svg?branch=master)](https://travis-ci.org/canjs/can-define-lazy-value)
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/canjs/can-define-lazy-value?branch=master&svg=true)](https://ci.appveyor.com/project/matthewp/can-define-lazy-value)
-[![Coverage status](https://coveralls.io/repos/github/canjs/can-define-lazy-value/badge.svg?branch=master)](https://coveralls.io/github/canjs/can-define-lazy-value?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-define-lazy-value.svg)](https://greenkeeper.io/)
 
 Define lazy properties with Object.defineProperty
